@@ -1,0 +1,18 @@
+/* .topic{
+    text-align: center;
+} */
+.block1{
+    background-color: aqua
+}
+.block2{
+    background-color: antiquewhite;
+    text-align: center;
+    border-bottom: 3px dashed red;
+    display: inline;
+}
+.inline1{
+    background-color: rgb(91, 224, 224);
+    text-align: center;
+    border-bottom: 3px solid red;
+    display: block;
+}
